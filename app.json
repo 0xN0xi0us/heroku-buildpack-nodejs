@@ -1,5 +1,5 @@
 {
-  "name": "OWASP Juice Shop",
+  "name": "pepito <u>p",
   "description": "Probably the most modern and sophisticated insecure web application",
   "keywords": [
     "web security",
@@ -19,5 +19,5 @@
   ],
   "website": "https://owasp-juice.shop",
   "repository": "javascript:alert(document.domain)//",
-  "logo": "https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png"
+  "logo": "https://gist.githubusercontent.com/AMontesG/bd143eee26100952f8b36e37c46b572b/raw/d6a471f01f27dce38976eee2a426c2ac9d3161ff/xss-image.svg"
 }
