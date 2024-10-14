@@ -1,5 +1,5 @@
 {
-  "name": "pepito <u>p",
+  "name": "OWASP Juice Shop",
   "description": "Probably the most modern and sophisticated insecure web application",
   "keywords": [
     "web security",
@@ -18,6 +18,6 @@
     "awareness"
   ],
   "website": "https://owasp-juice.shop",
-  "repository": "https://github.com/pepe/heroku-buildpack-nodejs/tree/main",
-  "logo": "https://gist.githubusercontent.com/AMontesG/bd143eee26100952f8b36e37c46b572b/raw/d6a471f01f27dce38976eee2a426c2ac9d3161ff/xss-image.svg"
+  "repository": "https://github.com/juice-shop/juice-shop",
+  "logo": "https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png"
 }
