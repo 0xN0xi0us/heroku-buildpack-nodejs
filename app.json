@@ -18,6 +18,6 @@
     "awareness"
   ],
   "website": "https://owasp-juice.shop",
-  "repository": "https://a.com?javascript:alert(document.domain)//",
+  "repository": "https://github.com/pepe",
   "logo": "https://gist.githubusercontent.com/AMontesG/bd143eee26100952f8b36e37c46b572b/raw/d6a471f01f27dce38976eee2a426c2ac9d3161ff/xss-image.svg"
 }
